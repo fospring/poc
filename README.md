@@ -23,7 +23,6 @@
 ```
 cd sdk
 ./runApp.sh
-
 ```
 ##### Terminal Window 2
 
@@ -32,7 +31,6 @@ cd sdk
 ```
 cd sdk
 ./init.sh
-
 ```
 
 ### Step 2: setup the yiliao poc
@@ -42,11 +40,9 @@ cd sdk
 ```
 cd yiliao
 ./runApp.sh
-
 ```
 
 ## Test the sample program
 ```
 http://127.0.0.1:3389
-
 ```
